@@ -195,7 +195,7 @@ def predictWork(m=4990):
 #4	3.35	1.75	3.65	3.35	1.83
     print("*" * 40)
     print
-    tup = OneR.OneRAlgo(X, Y, (beginOdds))
+    tup = OneR.OneRAlgo(bX[:-1], bY[:-1], (beginOdds))
     print("{0:.2f}, {1}, {2}, {3:.2f}%, {4}, {5}".format(tup[0], tup[1], tup[2], tup[3], tup[4], tup[5]))
     print("*"*40)
 
