@@ -18,4 +18,4 @@
 * Don't believe everything!
 * Despite you have 100% faith, you should not bet all.
 * The world has many chances, just catch the nearest one.
-* The road stand under foot, believe youself , believe belief.
+* The road stand under your feet, believe youself , believe belief.
